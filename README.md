@@ -1,5 +1,5 @@
 # Fire Fight
-Tower defence game.
+Tower defense game.
 
 Created with Python 2.7 and Pygame 1.9.6.
 
