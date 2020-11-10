@@ -1,5 +1,5 @@
 # Fire Fight
-Grade 12 CPT project for computer science class. Created by Daniel Demidenko and myself.
+Tower defence game.
 
 Created with Python 2.7 and Pygame 1.9.6.
 
